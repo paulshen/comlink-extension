@@ -3,7 +3,7 @@
     "alwaysStrict": false,
     "noImplicitUseStrict": true,
     "forceConsistentCasingInFileNames": true,
-    "module": "CommonJS",
+    "module": "es2020",
     "moduleResolution": "node",
     "strict": true,
     "strictNullChecks": true,
